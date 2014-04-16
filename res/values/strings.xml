@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Glass_Dance</string>
+    <string name="start_dance">dance with me</string>
+	<string name="stop_dance">Stop</string>
+</resources>
